@@ -1,0 +1,11 @@
+server:
+  port: 9888
+
+spring:
+  data:
+    redis:
+      host: xiaosixuan.top
+      port: 6379
+      database: 14
+      password: 1qazasdf
+
